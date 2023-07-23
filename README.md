@@ -1,5 +1,7 @@
 # luthfi-am-technical-test
-  
+
+
+  ___LANGUAGES: REACTJS, EXPRESSJS___
 RUN FRONT END
 ```
 cd front-end

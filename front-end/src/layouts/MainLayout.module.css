@@ -1,0 +1,17 @@
+.layouts {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  min-height: 100vh;
+  background: #cecece;
+}
+
+.container {
+  max-width: 1180px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
